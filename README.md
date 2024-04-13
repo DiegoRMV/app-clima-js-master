@@ -4,4 +4,4 @@
 
 ##### Tecnologias: HTML, CSS, JS
 
-##### API utlizada: `https://api.openweathermap.org`
+##### API utlizada: (https://api.openweathermap.org)
